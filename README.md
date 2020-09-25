@@ -10,6 +10,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+```const Kayla = {
+    pronouns: 'she | her',
+    code: 'JavaScript, HTML5, CSS3',
+    techCommunities: {
+      speaker: 'CUNY Tech',
+      participant: ['Women Who Code NYC', 'Whiteboard Masters'],
+    },
+    technologies: ['React', 'Node', 'Express', 'MongoDB', 'PostgreSQL', 'Docker', 'AWS'],
+    hobbies: ['snowboarding, 'skateboarding', 'coding', 'reading', 'drinking coffee', 'hiking', 'rock climbing', 'hammocking', '...and the list goes on'],
+    CurrentChallenge: 'Hacktoberfest!',
+   }
+```
 ![kgolder92's github stats](https://github-readme-stats.vercel.app/api?username=kgolder92&show_icons=true&theme=tokyonight)
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kgolder92&theme=tokyonight">
 
