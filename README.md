@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-![kgolder92's github stats](https://github-readme-stats.vercel.app/api?username=kgolder92&show_icons=true&theme=cobalt)
+![kgolder92's github stats](https://github-readme-stats.vercel.app/api?username=kgolder92&show_icons=true&theme=tokyonight)
 
