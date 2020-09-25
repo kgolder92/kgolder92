@@ -11,5 +11,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![kgolder92's github stats](https://github-readme-stats.vercel.app/api?username=kgolder92&show_icons=true&theme=tokyonight)
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kgolder92&theme=tokyonight">
 
 
