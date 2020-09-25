@@ -4,10 +4,14 @@
 **kgolder92/kgolder92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on TabKeeper - one tab to rule them all to help increase browser/computer speed, general organization and development eficiency
+- 🔭  I’m currently working on TabKeeper - one tab to rule them all to help increase browser/computer speed, general organization and development eficiency
 <!--- 🌱 I’m currently learning ... -->
-- 📫 How to reach me: 	<a href="https://www.linkedin.com/in/kayla-golder-2060a5137/"> <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-- ⚡ Fun fact: 
+- 📫  How to reach me: 
+<a href="https://www.linkedin.com/in/kayla-golder-2060a5137/">
+   <span> kgolder </span> 
+   <img style="height:1em;" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> 
+</a>
+<!-- ⚡  Fun fact: -->
 
 ```javascript
 const Kayla = {
