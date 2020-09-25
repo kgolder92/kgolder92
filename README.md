@@ -6,10 +6,9 @@
 
 - 🔭  I’m currently working on TabKeeper - one tab to rule them all to help increase browser/computer speed, general organization and development eficiency
 <!--- 🌱 I’m currently learning ... -->
-- 📫  How to reach me: 
-<a href="https://www.linkedin.com/in/kayla-golder-2060a5137/">
-   <div style="text-decoration: none;"> kgolder </div> 
-   <img style="width:10px;" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> 
+- 📫  How to reach me: <a href="https://www.linkedin.com/in/kayla-golder-2060a5137/">
+   <div style="text-decoration: none; font-family: arial;"> kgolder </div> 
+   <img style="border-radius:4px;" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> 
 </a>
 <!-- ⚡  Fun fact: -->
 
