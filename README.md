@@ -8,8 +8,8 @@
 <!--- 🌱 I’m currently learning ... -->
 - 📫  How to reach me: 
 <a href="https://www.linkedin.com/in/kayla-golder-2060a5137/">
-   <span> kgolder </span> 
-   <img style="height:1em;" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> 
+   <div style="text-decoration: none;"> kgolder </div> 
+   <img style="width:10px;" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> 
 </a>
 <!-- ⚡  Fun fact: -->
 
