@@ -10,8 +10,8 @@
 <!--- 🌱 I’m currently learning ... -->
 - 📫  How to reach me: <a href="https://www.linkedin.com/in/kayla-golder-2060a5137/">
    <div> kgolder </div> 
-   <img class="icon" alt="linkedin" src="linkedin.svg" />
-   <img class="icon" alt="gmail" src="gmail.svg" />
+   <!--<img style="width:20px;" class="icon" alt="linkedin" src="linkedin.svg" />
+   <img class="icon" alt="gmail" src="gmail.svg" /> -->
 </a>
 <!-- ⚡  Fun fact: -->
 
