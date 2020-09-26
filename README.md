@@ -6,9 +6,9 @@
 **kgolder92/kgolder92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭  I’m currently working on TabKeeper - one tab to rule them all to help increase browser/computer speed, general organization and development eficiency
+ 🔭 &nbsp; I’m currently working on TabKeeper - one tab to rule them all to help increase browser/computer speed, general organization and development eficiency
 <!--- 🌱 I’m currently learning ... -->
-- 📫  How to reach me: <a href="https://www.linkedin.com/in/kayla-golder-2060a5137/">
+ 📫 &nbsp; How to reach me: <a href="https://www.linkedin.com/in/kayla-golder-2060a5137/">
    <div> kgolder </div> 
    <!--<img style="width:20px;" class="icon" alt="linkedin" src="linkedin.svg" />
    <img class="icon" alt="gmail" src="gmail.svg" /> -->
