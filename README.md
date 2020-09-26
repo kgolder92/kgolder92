@@ -12,7 +12,8 @@
     kgolder 
    <!-- <img style="width:10px; height:10px; background-color:#0077B5" class="icon" alt="linkedin" src="linkedin.svg" /> -->
 
- ![linkedin](linkedin.svg)
+ <!--[linkedin](linkedin.svg)-->
+ <img src="linkedin.svg" alt="drawing" width="25" background-color="#0077B5"/>
 
    <!--<img class="icon" alt="gmail" src="gmail.svg" /> -->
 </a>
