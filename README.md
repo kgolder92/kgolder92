@@ -9,7 +9,7 @@
  🔭 &nbsp; I’m currently working on TabKeeper - one tab to rule them all to help increase browser/computer speed, general organization and development eficiency
 <!--- 🌱 I’m currently learning ... -->
  📫 &nbsp; How to reach me: <a href="https://www.linkedin.com/in/kayla-golder-2060a5137/">
-   <div> kgolder </div> 
+    kgolder 
    <!--<img style="width:20px;" class="icon" alt="linkedin" src="linkedin.svg" />
    <img class="icon" alt="gmail" src="gmail.svg" /> -->
 </a>
