@@ -8,6 +8,6 @@ a {
   text-decoration: 'none';
 }
 
-img {
-  height: 1em;
+.icon {
+  width: 5%;
 }
