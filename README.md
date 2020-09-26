@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css" />
+
 # Hi there, I'm Kayla 👋
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 <!--
