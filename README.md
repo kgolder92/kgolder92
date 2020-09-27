@@ -24,7 +24,7 @@ const Kayla = {
    },
    hobbies: ['snowboarding, 'skateboarding', 'coding', 'reading', 'drinking coffee', 'hiking', 'rock climbing', 'hammocking', '...and the list goes on'],
    CurrentChallenge: 'Hacktoberfest!',
-  }
+}
 ```
 ![kgolder92's github stats](https://github-readme-stats.vercel.app/api?username=kgolder92&show_icons=true&theme=tokyonight)
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kgolder92&theme=tokyonight">
