@@ -31,4 +31,7 @@ const Kayla = {
 ![kgolder92's github stats](https://github-readme-stats.vercel.app/api?username=kgolder92&show_icons=true&theme=tokyonight)
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kgolder92&theme=tokyonight">
 
+<!-- Resources -->
+<!-- Icons: https://www.iconfinder.com -->
+<!-- GitHub Stats: https://github.com/kgolder92/github-readme-stats -->
 
