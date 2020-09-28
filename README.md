@@ -1,10 +1,13 @@
 <link rel="stylesheet" href="style.css" />
-
-# Hi there, I'm Kayla 👋
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 <!--
 **kgolder92/kgolder92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+<!-- # Hi there, I'm Kayla 👋 -->
+<img src="banner.png" />
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 
  🔭 &nbsp; I’m currently working on TabKeeper - one tab to rule them all to help increase browser/computer speed, general organization and development eficiency
 <!--- 🌱 I’m currently learning ... -->
