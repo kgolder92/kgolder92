@@ -25,7 +25,7 @@ const Kayla = {
      participant: ['Women Who Code NYC', 'Whiteboard Masters'],
    },
    hobbies: ['snowboarding, 'skateboarding', 'coding', 'reading', 'drinking coffee', 'hiking', 'rock climbing', 'hammocking', '...and the list goes on'],
-   CurrentChallenge: 'Hacktoberfest!',
+   currentChallenge: 'Hacktoberfest!',
 }
 ```
 <!-- ![kgolder92's github stats](https://github-readme-stats.vercel.app/api?username=kgolder92&show_icons=true&theme=tokyonight)
