@@ -8,7 +8,9 @@ a {
   text-decoration: 'none';
 }
 
-img[alt=linkedin] { width: 100px; }
+img[alt=gif] { 
+  margin-left: 20px; 
+}
 
 .icon {
   width: 10px;
