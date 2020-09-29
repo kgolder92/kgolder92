@@ -9,7 +9,8 @@ a {
 }
 
 img[alt=gif] { 
-  margin-top: 0px; 
+  top: 0; 
+  margin: 0;
 }
 
 .icon {
