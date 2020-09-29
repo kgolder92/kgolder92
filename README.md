@@ -5,7 +5,8 @@
 
 <!-- # Hi there, I'm Kayla 👋 -->
 <img src="./assets/banner.png" />
-![petraits gif](https://github.com/kgolder92/kgolder92/blob/master/petraits.gif)
+[petraits gif](https://github.com/kgolder92/kgolder92/blob/master/assets/petraits.gif)
+
  🔭 &nbsp; I’m currently working on TabKeeper - (One Tab To Rule Them All!) to help increase browser/computer speed, general organization and development eficiency
 <!--- 🌱 I’m currently learning ... -->
  📫 &nbsp; How to reach me: &nbsp; <a href="https://www.linkedin.com/in/kayla-golder-2060a5137/"> <img align="center" src="./assets/linkedinIcon.svg" width="22"/> </a> &nbsp; <a href="https://twitter.com/GolderKayla"> <img align="center" src="./assets/twitterIcon.svg" width="22"> </a> &nbsp; <a href="mailto: golderkayla@gmail.com"> <img align="center" src="./assets/gmailIcon.svg" width="22" /> </a>
