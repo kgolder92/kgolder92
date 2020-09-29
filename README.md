@@ -5,7 +5,7 @@
 
 <!-- # Hi there, I'm Kayla 👋 -->
 <img src="./assets/banner.png" />
-<img src="https://github.com/kgolder92/kgolder92/blob/master/assets/petraits.gif" width="55"/>
+<img src="https://github.com/kgolder92/kgolder92/blob/master/assets/petraits.gif" width="200" />
 
  🔭 &nbsp; I’m currently working on TabKeeper - (One Tab To Rule Them All!) to help increase browser/computer speed, general organization and development eficiency
 <!--- 🌱 I’m currently learning ... -->
