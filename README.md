@@ -3,7 +3,7 @@
 **kgolder92/kgolder92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<!-- # Hi there, I'm Kayla 👋 -->
+
 <img src="./assets/banner15.png" /> <img alt="gif" src="https://github.com/kgolder92/kgolder92/blob/master/assets/petraits.gif" width="145" />
 
  🔭 &nbsp; I’m currently working on TabKeeper - (One Tab To Rule Them All!) to help increase browser/computer speed, general organization and development eficiency
