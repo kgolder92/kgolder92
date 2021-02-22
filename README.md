@@ -10,8 +10,6 @@
 <!--- 🌱 I’m currently learning ... -->
  📫 &nbsp; How to reach me: &nbsp; <a href="https://www.linkedin.com/in/kayla-golder-2060a5137/"> <img align="center" src="./assets/linkedinIcon.svg" width="22"/> </a> &nbsp; <a href="https://twitter.com/GolderKayla"> <img align="center" src="./assets/twitterIcon.svg" width="22"> </a> &nbsp; <a href="mailto: golderkayla@gmail.com"> <img align="center" src="./assets/gmailIcon.svg" width="22" /> </a>
 
-<!-- ⚡  Fun fact: -->
-
 ```javascript
 const Kayla = {
    pronouns: 'she | her',
