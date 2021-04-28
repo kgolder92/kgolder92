@@ -19,7 +19,7 @@ const Kayla = {
      speaker: 'CUNY Tech',
      participant: ['Women Who Code NYC', 'Whiteboard Masters'],
    },
-   hobbies: ['snowboarding', 'skateboarding', 'drawing animals ↗️' 'coding', 'reading', 'drinking coffee', 'hiking', 'rock climbing', 'hammocking', '...and the list goes on'],
+   hobbies: ['snowboarding', 'skateboarding', 'drawing animals ↗️', 'coding', 'reading', 'drinking coffee', 'hiking', 'rock climbing', 'hammocking', '...and the list goes on'],
    currentChallenge: 'Hacktoberfest!',
 }
 ```
